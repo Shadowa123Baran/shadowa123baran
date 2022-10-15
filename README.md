@@ -3,6 +3,6 @@
   ## I'm a beginner frontend developer
   
   Languages and Tools
-  ![Flutter](https://img.shields.io/badge/-Flutter-111115?style=for-the-badge&logo=appveyor)
+  ![Flutter](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=e54d26)
   
   Follow me
