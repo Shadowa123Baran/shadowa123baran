@@ -17,4 +17,4 @@
 
   ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=de2925)
   ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord)
-  ![[Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk&logoColor=0077ff)](https://vk.com/shadowa_s)
+  [![Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk&logoColor=0077ff)](https://vk.com/shadowa_s)
