@@ -1,7 +1,8 @@
   ![Header](https://github.com/Shadowa123Baran/shadowa123baran/blob/main/static.png?raw=true)
 
-  About me
+  ## I'm a beginner frontend developer
   
-  Languages and Tools
+  ###Languages and Tools
+  ![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
   
   Follow me
