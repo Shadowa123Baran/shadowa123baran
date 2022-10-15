@@ -3,6 +3,7 @@
   ## I'm a beginner frontend developer
   
   ### Languages, Tools and other abilities
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=HTML5&logoColor=e54d26)
   ![CSS3](https://img.shields.io/badge/-CSS3-111115?style=for-the-badge&logo=CSS3&logoColor=0066cc)
   ![Sass](https://img.shields.io/badge/-Sass-111115?style=for-the-badge&logo=Sass&logoColor=c7568e)
@@ -12,4 +13,8 @@
   ![Flexbox](https://img.shields.io/badge/-Flexbox-111115?style=for-the-badge&logo=Flexbox&logoColor=0066cc)
   ![Adaptivedesign](https://img.shields.io/badge/-Adaptive_layout-111115?style=for-the-badge&logo=Adaptive_layout&logoColor=e54d26)
   
-  Follow me
+  ### Follow me
+
+  ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=e54d26)
+  ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord&logoColor=0066cc)
+  ![Vkontakte](https://img.shields.io/badge/-Vkontakte-111115?style=for-the-badge&logo=Vkontakte&logoColor=c7568e)
