@@ -10,6 +10,6 @@
   ![Adaptivedesign](https://img.shields.io/badge/-Adaptive_layout-111115?style=for-the-badge&logo=Adaptive_layout&logoColor=e54d26)
   ![BEM](https://img.shields.io/badge/-BEM-111115?style=for-the-badge&logo=BEM&logoColor=309ed9)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-111115?style=for-the-badge&logo=JavaScript&logoColor=f7e01d)
-  ![Figma](https://img.shields.io/badge/-Figma-111115?style=for-the-badge&logo=Figma&logoColor)
+  ![Figma](https://img.shields.io/badge/-Figma-111115?style=for-the-badge&logo=Figma)
   
   Follow me
