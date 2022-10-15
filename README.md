@@ -15,6 +15,6 @@
   
   ### Follow me
 
-  ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=e54d26)
-  ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord&logoColor=0066cc)
-  ![Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk&logoColor=c7568e)
+  ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube)
+  ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord)
+  ![Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk)
