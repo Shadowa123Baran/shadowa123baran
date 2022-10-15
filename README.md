@@ -15,6 +15,6 @@
   
   ### Follow me
 
-  ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=de2925)
+  [![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=de2925)](https://www.youtube.com/channel/UCAi0x-uVJc0TIs_90tZ8LpA)
   ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord)
   [![Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk&logoColor=0077ff)](https://vk.com/shadowa_s)
