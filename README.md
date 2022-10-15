@@ -17,4 +17,4 @@
 
   ![YouTube](https://img.shields.io/badge/-YouTube-111115?style=for-the-badge&logo=YouTube&logoColor=e54d26)
   ![Discord](https://img.shields.io/badge/-Discord-111115?style=for-the-badge&logo=Discord&logoColor=0066cc)
-  ![Vk](https://img.shields.io/badge/-Vkontakte-111115?style=for-the-badge&logo=Vkontakte&logoColor=c7568e)
+  ![Vk](https://img.shields.io/badge/-Vk-111115?style=for-the-badge&logo=Vk&logoColor=c7568e)
