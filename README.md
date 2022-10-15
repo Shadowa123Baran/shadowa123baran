@@ -3,6 +3,6 @@
   ## I'm a beginner frontend developer
   
   ###Languages and Tools
-  ![Flutter](https://img.shields.io/badge/-Flutter-<COLOR>)
+  ![Flutter](https://img.shields.io/badge/-Flutter-111115)
   
   Follow me
