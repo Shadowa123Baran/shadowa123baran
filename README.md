@@ -9,7 +9,7 @@
   ![Sass](https://img.shields.io/badge/-Sass-111115?style=for-the-badge&logo=Sass&logoColor=c7568e)
   ![BEM](https://img.shields.io/badge/-BEM-111115?style=for-the-badge&logo=BEM&logoColor=309ed9)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-111115?style=for-the-badge&logo=JavaScript&logoColor=f7e01d)
-  ![Jest](https://img.shields.io/badge/-Jest-111115?style=for-the-badge&logo=Jest&logoColor=f7e01d)
+  ![Jest](https://img.shields.io/badge/-Jest-111115?style=for-the-badge&logo=Jest&logoColor=8e475b)
   ![Figma](https://img.shields.io/badge/-Figma-111115?style=for-the-badge&logo=Figma&logoColor=a259ff)
   ![Flexbox](https://img.shields.io/badge/-Flexbox-111115?style=for-the-badge&logo=Flexbox&logoColor=0066cc)
   ![Adaptivedesign](https://img.shields.io/badge/-Adaptive_layout-111115?style=for-the-badge&logo=Adaptive_layout&logoColor=e54d26)
