@@ -1,6 +1,6 @@
   ![Header](https://github.com/Shadowa123Baran/shadowa123baran/blob/main/static.png?raw=true)
 
-  ## I'm a beginner frontend developer
+  ## I'm a beginner frontend developer(MAY 2023 - END)
   
   ### Languages, Tools and other abilities
   
